@@ -1,2 +1,2 @@
 # workstation-a
-My alpine workstation setup
+My alpine workstation setup files.
